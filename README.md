@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <div>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="40" height="40"/> AWS
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/> AndroidStudio
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AutoCAD-Light.svg" title="AutoCAD" alt="AutoCAD" width="40" height="40"/> AutoCAD
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Light.svg" title="Azure" alt="Azure" width="40" height="40"/> Azure
