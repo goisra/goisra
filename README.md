@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Dark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
