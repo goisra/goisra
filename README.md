@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+
+Hi there 👋
+
+I am Ana, a Developer Advocate at Amazon Web Services 👩🏻‍💻☁️.
+
+👾 Pronouns: he/his
+💬 Ask me about:
+Beers 🍺
+Video games 🎮
+Taylor Swift 🎵
+🌎 Website: https://anacunha.dev/
+
+
 <!--
 **goisra/goisra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
