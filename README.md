@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ana, a Software Development Engineering student 👩🏻‍💻☁️.
+I am Israel, a Software Development Engineering student 👩🏻‍💻☁️.
 
 👾 Pronouns: he/his
 💬 Ask me about:
