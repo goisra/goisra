@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-Hi there 👋
-
-I am Ana, a Developer Advocate at Amazon Web Services 👩🏻‍💻☁️.
+I am Ana, a Software Development Engineering student 👩🏻‍💻☁️.
 
 👾 Pronouns: he/his
 💬 Ask me about:
