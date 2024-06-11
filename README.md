@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-### Languages and Tools
+## 📫How to reach me:
+
+<div>
+  <a href="https://www.linkedin.com/in/israel-jes%C3%BAs-garc%C3%ADa-osorio-5675492b8" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
+  <a href="https://www.instagram.com/go__isra/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a> 
+  <a href="jesus2102.garcia@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" title="Gmail" alt="Gmail" width="40" height="40"/></a> 
+</div>
 
 
+## Languages and Tools
 
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
