@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <div>
   <a href="https://www.linkedin.com/in/israel-jes%C3%BAs-garc%C3%ADa-osorio-5675492b8" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
   <a href="https://www.instagram.com/go_isra?igsh=MXd0Z3F1MmtiMnpsZw%3D%3D&utm_source=qr" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a> 
-  <a href="mailto:jesusgarcia2102.job@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" 
-title="Gmail" alt="Gmail" width="40" height="40"/></a> 
+  <a href="mailto:jesusgarcia2102.job@gmail.com?subject=&body=Hola%20Jes%C3%BAs," target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" 
+title="Gmail" alt="Gmail" width="40" height="40"/></a>
 </div>
 
 
@@ -72,3 +72,10 @@ title="Gmail" alt="Gmail" width="40" height="40"/></a>
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaress&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goisra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
