@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Israel, a Software Development Engineering 👩🏻‍💻☁️
+I am Israel, a Software Development Engineer 👩🏻‍💻☁️
 
 🔭 I’m currently a member of Microsoft Student Ambassadors.
 
