@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am Israel Jesús, a Software Engineer and a cloud enthusiast, specialized in Amazon Web Services (AWS). Founder and leader of the first [AWS User Group in Puebla](https://linktr.ee/awspuebla) and active member of the MLSA (Microsoft Learn Ambassadors) program, in love with creating vibrant communities of technology enthusiasts and professionals, committed to learning, collaboration, and innovation.
+
+I am Israel Jesús, a Software Engineer, Cloud Advocate & Technical Cloud AWS at @ Nike, specialized in Amazon Web Services (AWS). Founder and leader of the first [AWS User Group in Puebla](https://linktr.ee/awspuebla) and the [HackUTP](https://hackutp.com) initiative, I am also an active member of the MLSA (Microsoft Learn Ambassadors) program, in love with creating vibrant communities of technology enthusiasts and professionals, committed to learning, collaboration, and innovation.
 
 My experience focuses on the design and implementation of scalable and secure cloud solutions, with a special focus on solving complex problems and optimizing technological infrastructures. I enjoy facing challenges that motivate me to find creative and effective solutions for each of them.
 
