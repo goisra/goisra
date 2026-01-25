@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 
 <div>
       <a href="https://www.linkedin.com/in/israel-jesús/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
+      <a href="https://www.instagram.com/goisra.dev" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a>   
       <a href="https://www.youtube.com/@goisra.cloudlab" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" title="YouTube" alt="YouTube" width="40" height="40"/></a>
       <a href="mailto:contacto@goisra.dev?subject=Desde GitHub:?body=Hola%20Jes%C3%BAs," target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" title="Gmail" alt="Gmail" width="40" height="40"/></a>
-       <a href="https://www.instagram.com/goisra.dev" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a>      
+          
 </div>
 <br>
 
@@ -39,9 +40,9 @@ Here are some ideas to get you started:
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Light.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
