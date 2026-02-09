@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 
-I am Israel Jesús, a Software Engineer, and Cloud Engineer at @ Nike, specialized in Amazon Web Services (AWS). Founder and leader of the first [AWS User Group in Puebla](https://linktr.ee/awspuebla), in love with creating vibrant communities of technology enthusiasts and professionals, committed to learning, collaboration, and innovation.
+I’m Israel Jesús, Cloud Engineer at Nike, specialized in building scalable, secure, and cloud-native solutions on Amazon Web Services (AWS). I currently work within Retail Technology environments, designing and operating cloud platforms that support large-scale, business-critical systems.
 
-My experience focuses on the design and implementation of scalable and secure cloud solutions, with a special focus on solving complex problems and optimizing technological infrastructures. I enjoy facing challenges that motivate me to find creative and effective solutions for each of them.
+My experience spans cloud architecture, serverless and event-driven systems, Infrastructure as Code (IaC), and MLOps practices. I’ve led the transition of machine learning workloads from research to production, designed cloud platforms for real-time data processing, and applied Clean Architecture principles to build maintainable and resilient systems across diverse industries.
 
-Throughout my career, I have acquired skills in cloud application architecture, databases, and cloud service management within AWS environments. I feel comfortable working in multidisciplinary teams and always seek to learn something new that allows me to improve my skills and contribute even more to each project in which I participate.
+Beyond my professional role, I’m the founder and leader of the first [AWS User Group in Puebla](https://linktr.ee/awspuebla). I’m committed to growing technology communities, sharing knowledge, and creating spaces where people can learn, collaborate, and innovate together. I’ve participated as a speaker and contributor in international tech communities, reinforcing my belief in technology as a tool for collective impact.
 
-My goal is to continue building and sharing knowledge through technology communities, fostering growth and collaboration among its members.
+I enjoy tackling complex technical challenges, optimizing cloud infrastructures, and continuously learning to deliver high-quality solutions. My goal is to keep building scalable cloud systems while empowering others through community, mentorship, and knowledge sharing.
 
 🌎 Visit my website here: [goisra.dev](https://goisra.dev/)
 
