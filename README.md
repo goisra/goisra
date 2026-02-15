@@ -9,7 +9,7 @@ Beyond my professional role, I’m the founder and leader of the first [AWS User
 
 I enjoy tackling complex technical challenges, optimizing cloud infrastructures, and continuously learning to deliver high-quality solutions. My goal is to keep building scalable cloud systems while empowering others through community, mentorship, and knowledge sharing.
 
-🌎 Visit my website here: [goisra.dev](https://goisra.dev/)
+👉 Visit my website here: [goisra.dev](https://goisra.dev/)
 
 <!--
 **goisra/goisra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
